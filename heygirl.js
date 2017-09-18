@@ -32,21 +32,19 @@ function Gosling(ratio, imageurl){
  }
 
 var myGosling = [ 
-new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-1.png"), 
-new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-2.gif"), 
-new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-3.jpg"),
-new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-4.gif"), 
-new Gosling("vertical", "http://heygirl.io/img/gosling-vert-1.jpg"), 
-new Gosling("vertical", "http://heygirl.io/img/gosling-vert-3.jpg"), 
-new Gosling("vertical", "http://heygirl.io/img/gosling-vert-4.jpg"),
-new Gosling("vertical", "http://heygirl.io/img/gosling-vert-5.gif"),
+new Gosling("horizontal", "http://heygirl.io/heygril-master/dogs/horizontal1.jpg"), 
+new Gosling("horizontal", "http://heygirl.io/heygril-master/dogs/horizontal2.jpg"), 
+
+ 
+new Gosling("vertical", "http://heygirl.io/heygril-master/dogs/vertical.png"), 
+new Gosling("vertical", "http://heygirl.io/heygril-master/dogs/vertical2.jpg"), 
+new Gosling("vertical", "http://heygirl.io/heygril-master/dogs/vertical3.jpg"),
+new Gosling("vertical", "http://heygirl.io/heygril-master/dogs/vertical4.jpg"),
 new Gosling("vertical", "http://heygirl.io/img/gosling-vert-6.jpg"),
-new Gosling("vertical", "http://heygirl.io/img/gosling-vert-7.jpg"),
-new Gosling("vertical", "http://heygirl.io/img/gosling-vert-8.jpg"),
-new Gosling("vertical", "http://heygirl.io/img/gosling-vert-9.jpg"),
-new Gosling("square", "http://heygirl.io/img/gosling-square-1.jpg"),
-new Gosling("square", "http://heygirl.io/img/gosling-square-2.jpg"),
-new Gosling("square", "http://heygirl.io/img/gosling-square-3.jpg")
+
+
+new Gosling("square", "http://heygirl.io/heygril-master/dogs/square1.jpg"),
+new Gosling("square", "http://heygirl.io/heygril-master/dogs/square2.jpg")
 ]
 
 function imageRatio(image) {
