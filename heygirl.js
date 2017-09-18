@@ -32,19 +32,19 @@ function Gosling(ratio, imageurl){
  }
 
 var myGosling = [ 
-new Gosling("horizontal", "http://heygirl.io/heygril-master/dogs/horizontal1.jpg"), 
-new Gosling("horizontal", "http://heygirl.io/heygril-master/dogs/horizontal2.jpg"), 
+new Gosling("horizontal", "http://heygirl.io/heygril/dogs/horizontal1.jpg"), 
+new Gosling("horizontal", "http://heygirl.io/heygril/dogs/horizontal2.jpg"), 
 
  
-new Gosling("vertical", "http://heygirl.io/heygril-master/dogs/vertical.png"), 
-new Gosling("vertical", "http://heygirl.io/heygril-master/dogs/vertical2.jpg"), 
-new Gosling("vertical", "http://heygirl.io/heygril-master/dogs/vertical3.jpg"),
-new Gosling("vertical", "http://heygirl.io/heygril-master/dogs/vertical4.jpg"),
+new Gosling("vertical", "http://heygirl.io/heygril/dogs/vertical.png"), 
+new Gosling("vertical", "http://heygirl.io/heygril/dogs/vertical2.jpg"), 
+new Gosling("vertical", "http://heygirl.io/heygril/dogs/vertical3.jpg"),
+new Gosling("vertical", "http://heygirl.io/heygril/dogs/vertical4.jpg"),
 new Gosling("vertical", "http://heygirl.io/img/gosling-vert-6.jpg"),
 
 
-new Gosling("square", "http://heygirl.io/heygril-master/dogs/square1.jpg"),
-new Gosling("square", "http://heygirl.io/heygril-master/dogs/square2.jpg")
+new Gosling("square", "http://heygirl.io/heygril/dogs/square1.jpg"),
+new Gosling("square", "http://heygirl.io/heygril/dogs/square2.jpg")
 ]
 
 function imageRatio(image) {
