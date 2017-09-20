@@ -31,21 +31,21 @@ var getGosling = {
         }
     },
     myGosling = [new Gosling("horizontal", "https://wendy0730.github.io/heygirl/dogs/horizontal1.jpg"),
-     new Gosling("https://wendy0730.github.io/heygirl/dogs/horizontal2.jpg"), 
-     new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-4.gif"), 
-     new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-5.gif"),
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-6.jpg"), 
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-7.gif"), 
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-8.png"), 
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-9.gif"), 
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-10.gif"), 
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-11.gif"), 
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-12.png"), 
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-13.jpg"), 
-      new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-14.png"),
-       new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-15.gif"), 
-       new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-16.png"), 
-       new Gosling("vertical", "http://heygirl.io/img/gosling-vert-1.jpg"), 
+     new Gosling("horizontal"，"https://wendy0730.github.io/heygirl/dogs/horizontal2.jpg"), 
+      new Gosling("vertical", "https://wendy0730.github.io/heygirl/dogsvertical.png"), 
+new Gosling("vertical", "https://wendy0730.github.io/heygirl/dogs/vertical2.jpg"), 
+new Gosling("vertical", "https://wendy0730.github.io/heygirl/dogs/vertical3.jpg"),
+new Gosling("vertical", "https://wendy0730.github.io/heygirl/dogs/vertical4.jpg"),
+new Gosling("vertical", "http://heygirl.io/img/gosling-vert-6.jpg"),
+
+
+new Gosling("square", "http://heygirl.io/heygril-master/dogs/square1.jpg"),
+new Gosling("square", "http://heygirl.io/heygril-master/dogs/square2.jpg")
+
+
+
+
+
        new Gosling("vertical", "http://heygirl.io/img/gosling-vert-3.jpg"), 
        new Gosling("vertical", "http://heygirl.io/img/gosling-vert-4.jpg"),
         new Gosling("vertical", "http://heygirl.io/img/gosling-vert-5.gif"), 
