@@ -46,7 +46,7 @@ new Gosling("square", "http://heygirl.io/heygril-master/dogs/square2.jpg")
 
 
 
-       new Gosling("vertical", "http://heygirl.io/img/gosling-vert-3.jpg"), 
+       new Gosling("vertical", "https://wendy0730.github.io/heygirl/dogs/vertical4.jpg"), 
        new Gosling("vertical", "http://heygirl.io/img/gosling-vert-4.jpg"),
         new Gosling("vertical", "http://heygirl.io/img/gosling-vert-5.gif"), 
         new Gosling("vertical", "http://heygirl.io/img/gosling-vert-6.jpg"), 
@@ -62,7 +62,8 @@ new Gosling("square", "http://heygirl.io/heygril-master/dogs/square2.jpg")
          new Gosling("vertical", "http://heygirl.io/img/gosling-vert-16.gif"), 
          new Gosling("vertical", "http://heygirl.io/img/gosling-vert-17.jpg"), 
          new Gosling("vertical", "http://heygirl.io/img/gosling-vert-18.jpg"), 
-         new Gosling("vertical", "http://heygirl.io/img/gosling-vert-19.png"), new Gosling("square", "http://heygirl.io/img/gosling-square-1.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-2.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-3.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-4.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-5.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-6.png"), new Gosling("square", "http://heygirl.io/img/gosling-square-7.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-8.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-9.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-10.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-11.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-12.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-13.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-14.png")];
+         new Gosling("vertical", "http://heygirl.io/img/gosling-vert-19.png"), 
+         new Gosling("square", "http://heygirl.io/img/gosling-square-1.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-2.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-3.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-4.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-5.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-6.png"), new Gosling("square", "http://heygirl.io/img/gosling-square-7.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-8.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-9.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-10.gif"), new Gosling("square", "http://heygirl.io/img/gosling-square-11.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-12.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-13.jpg"), new Gosling("square", "http://heygirl.io/img/gosling-square-14.png")];
 ! function(i) {
     getGosling.init(myGosling);
     for (var g = i.getElementsByTagName("img"), o = g.length, n = 0; o > n; n++) {
